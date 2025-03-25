@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        System.out.println("Задача 1");
+
         LinkedHashMapTask1 elements = new LinkedHashMapTask1();
 
         elements.addElement("Первый", 1);

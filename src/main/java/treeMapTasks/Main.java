@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        System.out.println("Задача 1");
+
         TreeMapTask1 elements = new TreeMapTask1();
 
         elements.addElement("Математика", 67);
