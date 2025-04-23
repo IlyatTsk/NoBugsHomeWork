@@ -1,0 +1,16 @@
+.allure/
+.idea/
+.hg/
+out/
+build/
+builds/
+_builds_/
+target/
+log/
+logs/
+allure-results/
+*.orig
+*.log
+*.iml
+*.versionsBackup
+*.mdmp
